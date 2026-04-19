@@ -25,5 +25,8 @@ __pycache__/
 # Testing notebooks (not for distribution)
 test_colab_compatibility.ipynb
 
+# Marimo notebooks (generated from .ipynb)
+GBM_Analysis.py
+
 # Agents config
 .agents/
